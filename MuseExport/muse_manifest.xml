@@ -1,0 +1,53 @@
+<manifest alg="2" build="751" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="250539076"/>
+    <file name="master_a-master.css" crc="300786313" ref="index"/>
+    <file name="index.css" crc="4051905793" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="museredirect.js" crc="4231348958" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:tablet>index:tablet>about:tablet>map:phone>index:phone>about:phone>map"/>
+    <file name="museutils.js" crc="3885830161" ref="index:tablet>index:tablet>about:tablet>map:phone>index:phone>about:phone>map"/>
+    <file name="jquery.scrolleffects.js" crc="496362122" ref="index"/>
+    <file name="pie.js" crc="4147615982" ref="index:tablet>index:tablet>about:tablet>map:phone>index:phone>about:phone>map"/>
+    <file name="jquery.watch.js" crc="4199601726" ref="index:tablet>index:tablet>about:tablet>map"/>
+    <file name="jquery.musemenu.js" crc="32367222" ref="tablet>index:tablet>about:tablet>map:phone>index:phone>about:phone>map"/>
+    <file name="jquery.tobrowserwidth.js" crc="4262060562" ref="tablet>index:tablet>about:tablet>map:phone>index:phone>about:phone>map"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="217285241" ref="index"/>
+    <file name="skyline_trace.png" crc="379710342" ref="index"/>
+    <file name="available_on_the_app_store_badge_us-uk_135x40_0824.png" crc="4287587190" ref="index:tablet>index:tablet>about:tablet>map:phone>index:phone>about:phone>map"/>
+    <file name="en_app_rgb_wo_60.png" crc="3764495940" ref="index:tablet>index:tablet>about:tablet>map:phone>index:phone>about:phone>map"/>
+    <file name="twitter-bird-dark-bgs.png" crc="270987512" ref="index:tablet>index:tablet>about:tablet>map:phone>index:phone>about:phone>map"/>
+    <file name="biketrace.png" crc="392958208" ref="index"/>
+    <file name="screen shot 2013-09-30 at 111305 pm.png" crc="1512989" ref="index"/>
+    <file name="skyline_trace1000x1000.png" crc="257556922" ref="tablet>index:tablet>about:tablet>map"/>
+    <file name="biketrace1000.png" crc="4150692125" ref="tablet>index:tablet>about:tablet>map"/>
+    <file name="skyline_trace1000x1000380x246.png" crc="170683183" ref="phone>index"/>
+    <file name="biketracesml.png" crc="97228947" ref="phone>index:phone>about:phone>map"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="4233434670" ref="tablet>about:tablet>map:tablet>index"/>
+      <file name="about.css" crc="432570506" ref="tablet>about"/>
+      <file name="map.css" crc="3994969519" ref="tablet>map"/>
+      <file name="index.css" crc="467538905" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="371388947" mt="1380713522233"/>
+    <file name="about.html" crc="3978921322" mt="1380713522238"/>
+    <file name="map.html" crc="4254617824" mt="1380713522241"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="3778243656" ref="phone>about:phone>index:phone>map"/>
+      <file name="about.css" crc="4188950268" ref="phone>about"/>
+      <file name="index.css" crc="3794259403" ref="phone>index"/>
+      <file name="map.css" crc="4039196528" ref="phone>map"/>
+    </folder>
+    <file name="index.html" crc="4266079188" mt="1380713512027"/>
+    <file name="about.html" crc="189889031" mt="1380713512032"/>
+    <file name="map.html" crc="431207825" mt="1380713512035"/>
+  </folder>
+  <file name="index.html" crc="3846899833" mt="1380713461783"/>
+</manifest>
